@@ -49,7 +49,7 @@ Currently building:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
 
----
+<!-- ---
 
 ## 🚀 Featured Projects
 
@@ -62,9 +62,9 @@ AI-powered productivity and automation tools.
 ### 🔹 Automation Systems
 Workflow engines for social media scheduling & business processes.
 
----
+--- -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olly-techie&show_icons=true&theme=radical&count_private=true&hide_border=true" />
@@ -73,7 +73,7 @@ Workflow engines for social media scheduling & business processes.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olly-techie&layout=compact&theme=radical&hide_border=true" />
 </p>
-
+ -->
 ---
 
 ## 🎯 Mission
