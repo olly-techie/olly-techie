@@ -1,4 +1,4 @@
-<h1 align="center"> <Hë ïs Ølly /> </h1>
+<h1 align="center"> Hë_ïs Ølly  </h1>
 <h3 align="center">Founder @ Ollyverse • Software Developer • AI Builder</h3>
 
 <p align="center">
