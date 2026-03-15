@@ -1,5 +1,5 @@
-<h1 align="center"> < Hë ïs Dëv Ølly /> </h1>
-<h3 align="center">Founder @ Ollyverse Tech • Software Developer • AI Builder</h3>
+<h1 align="center"> <Hë ïs Ølly /> </h1>
+<h3 align="center">Founder @ Ollyverse • Software Developer • AI Builder</h3>
 
 <p align="center">
 Building scalable systems from bold ideas 🚀
@@ -25,11 +25,11 @@ Building scalable systems from bold ideas 🚀
 
 ## 🧠 About Me
 
-I’m the founder of **Ollyverse Tech**, focused on building scalable digital systems, AI-powered tools, and automation infrastructure.  
+I’m the founder of **Ollyverse**, focused on building scalable digital systems, AI-powered tools, and automation infrastructure.  
 I specialize in turning ideas into working products — from APIs to workflow engines.
 
 Currently building:
-- Products at Ollyverse Tech
+- Products at Ollyverse
 - AI-powered systems  
 - Bots & API-driven utilities  
 
@@ -47,7 +47,6 @@ Currently building:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
 
 <!-- ---
 
