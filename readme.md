@@ -1,5 +1,5 @@
 <h1 align="center"> Hë_ïs Ølly  </h1>
-<h3 align="center">Founder @ Ollyverse • Software Developer • AI Builder</h3>
+<h3 align="center">Founder @ AqiNode • Software Developer • AI Builder</h3>
 
 <p align="center">
 Building scalable systems from bold ideas 🚀
