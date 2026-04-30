@@ -25,11 +25,11 @@ Building scalable systems from bold ideas 🚀
 
 ## 🧠 About Me
 
-I’m the founder of **Ollyverse**, focused on building scalable digital systems, AI-powered tools, and automation infrastructure.  
+I’m the founder of **AqiNode** — https://www.aqinode.click , focused on building scalable digital systems, AI-powered tools, and automation infrastructure.  
 I specialize in turning ideas into working products — from APIs to workflow engines.
 
 Currently building:
-- Products at Ollyverse
+- Products at AqiNode 
 - AI-powered systems  
 - Bots & API-driven utilities  
 
@@ -63,7 +63,7 @@ Workflow engines for social media scheduling & business processes.
 
 --- -->
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olly-techie&show_icons=true&theme=radical&count_private=true&hide_border=true" />
@@ -72,7 +72,7 @@ Workflow engines for social media scheduling & business processes.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olly-techie&layout=compact&theme=radical&hide_border=true" />
 </p>
- -->
+ 
 ---
 
 ## 🎯 Mission
