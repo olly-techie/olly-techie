@@ -38,12 +38,17 @@ I’m focused on building scalable products, automating workflows, and turning i
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olly-techie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=olly-techie&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=olly-techie&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olly-techie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olly-techie&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olly-techie&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 ---
 
 ## 🧠 Philosophy
