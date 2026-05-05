@@ -1,10 +1,10 @@
-# ⚡ Olly 
+# ⚡ Ølly 
 
-> Founder • Developer • Builder
+> Software Developer • Creative Builder
 
 I don’t just write code — I design and ship.
 
-I’m focused on building scalable products, automating workflows, and turning ideas into real, usable tech.
+I’m focused on building scalable products, and turning ideas into real, usable tech.
 
 ---
 
@@ -71,7 +71,7 @@ I’m focused on building scalable products, automating workflows, and turning i
 ## 📡 Connect
 
 - 🌐 Website: https://devollycodes.vercel.app
-- 🐦 X: https://x.com/aqinode_hq  
+- 🐦 X: https://x.com/olly_prim3
 
 ---
 
