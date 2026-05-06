@@ -68,13 +68,13 @@ I’m focused on building scalable products, and turning ideas into real, usable
   <img src="https://streak-stats.demolab.com?user=olly-techie&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!---<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olly-techie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olly-techie&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+</p>--->
 
 ---
 
