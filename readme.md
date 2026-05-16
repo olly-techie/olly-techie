@@ -2,7 +2,7 @@
 
 > Software Developer • Creative Builder
 
-I don’t just write code — I design and ship.
+I don’t just write code — I design, I build and I ship.
 
 I’m focused on building scalable products, and turning ideas into real, usable tech.
 
@@ -46,6 +46,7 @@ I’m focused on building scalable products, and turning ideas into real, usable
 
 
 ## ☁️ Deployment & Hosting
+![Render](https://img.shields.io/badge/Render-0d0d0d?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Pxxl](https://img.shields.io/badge/Pxxl.app-0d0d0d?style=for-the-badge)
