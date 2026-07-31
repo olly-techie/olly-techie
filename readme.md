@@ -88,7 +88,7 @@ I’m focused on building scalable products, and turning ideas into real, usable
 
 ## ⚡ Fun Fact
 
-I build and ship real products directly.  
+I build and ship real products directly from my Linux machine and my phone.
 Constraints don’t slow me down — they force better systems.
 
 ---
