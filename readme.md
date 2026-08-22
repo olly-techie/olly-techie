@@ -62,6 +62,10 @@ I’m focused on building scalable products, and turning ideas into real, usable
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=olly-techie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=olly-techie&theme=tokyonight&hide_border=false)<br/>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+</p>
+<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=olly-techie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
