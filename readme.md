@@ -66,7 +66,7 @@ I’m focused on building scalable products, and turning ideas into real, usable
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=olly-techie&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 <!---<p align="center">
