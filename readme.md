@@ -1,6 +1,6 @@
 # ⚡ Ølly 
 
-> Software Engneer • Creative Builder
+> Software Engineer • Creative Builder
 
 I don’t just write code — I design, I build and I ship.
 
