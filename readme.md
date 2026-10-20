@@ -17,40 +17,6 @@ I’m focused on building scalable products, and turning ideas into real, usable
 
 
 
-
-## 🌐 Frontend Layer
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d0d0d?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-🧩 Focus: fast UI, clean UX, product-first interfaces
-
----
-
-## ⚙️ Backend Systems
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=777BB4)
-
----
-
-## 🗄️ Databases
-![Firebase Firestore](https://img.shields.io/badge/Firestore-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00758F)
-
-
-
-## ☁️ Deployment & Hosting
-![Render](https://img.shields.io/badge/Render-0d0d0d?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Pxxl](https://img.shields.io/badge/Pxxl.app-0d0d0d?style=for-the-badge)
-![InfinityFree](https://img.shields.io/badge/InfinityFree-0d0d0d?style=for-the-badge)
-
-
----
-
-
 ## 🚀 Featured Projects
 
 - 🤖 [**Kayla**](https://github.com/olly-techie/kayla-the-assistant) - AI assistant that lives in your terminal
