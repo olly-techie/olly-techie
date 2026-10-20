@@ -73,7 +73,7 @@ I’m focused on building scalable products, and turning ideas into real, usable
 
 ## 🤝 Support My Work
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
+[![BuyMeAMalt](https://img.shields.io/badge/Buy%20Me%20a%20Malt-D97706?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeamalt.com/@olayiwolabuilds)
 
 ---
 
