@@ -84,14 +84,8 @@ I’m focused on building scalable products, and turning ideas into real, usable
 ![Overview](https://github-readme-stats.vercel.app/api?username=olly-techie&theme=tokyonight&hide_border=false&show_icons=true&rank_icon=github)
 
 
-#### Languages & Frameworks
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,php,python,go,react,nextjs,tailwindcss,html,css)
-
-#### Backend & Databases
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,pnpm,firebase,mysql,sqlite,cloudflare,vercel,netlify,render)
-
-#### Tools & OS
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,linux,bash,vite,pnpm,figma,postman)
+#### Languages & Frameworks, Backend & Databases, Tools & OS
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,php,python,go,react,nextjs,tailwindcss,html,css,nodejs,npm,pnpm,firebase,mysql,sqlite,cloudflare,vercel,netlify,render,git,github,vscode,linux,bash,vite,figma,postman)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
