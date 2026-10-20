@@ -59,12 +59,41 @@ I’m focused on building scalable products, and turning ideas into real, usable
 ---
 
 
+## 🚀 Featured Projects
+
+- 🤖 [**Kayla**](https://github.com/olly-techie/kayla-the-assistant) - AI assistant that lives in your terminal
+- 🔗 [**Julian Proxy**](https://github.com/olly-techie/julian-proxy) - Zero-dependency bridge for OkeyMeta/Julian → OpenAI Responses API clients
+- 📱 [**Syncro**](https://github.com/olly-techie/syncro) - Wireless Android-to-Linux screen mirroring over Wi-Fi, powered by scrcpy
+- 🎵 [**lyrics-tui**](https://github.com/olly-techie/lyrics-tui) - Synced lyrics as big ASCII art in your terminal
+- 🔋 [**battery-report-linux**](https://github.com/olly-techie/battery-report-linux) - A powercfg /batteryreport for Linux
+- 🧹 [**mad-cleanup**](https://github.com/olly-techie/mad-cleanup) - Safe Linux cleanup & maintenance tool
+- 🌍 [**Sentinel Aerial**](https://github.com/olly-techie/sentinel-aerial) - Software-only AI aerial surveillance brain for FPV drones
+- 💸 [**Ifechoicez**](https://github.com/olly-techie/ifechoicez) - Budget recording app for iOS
+- 🍽️ [**Twisters Restaurant**](https://github.com/olly-techie/twisters-resturant) - Restaurant kiosk
+
+## 🤝 Support My Work
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
+
+---
+
 # 📊 GitHub Stats:
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=olly-techie&theme=tokyonight&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=olly-techie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Overview](https://github-readme-stats.vercel.app/api?username=olly-techie&theme=tokyonight&hide_border=false&show_icons=true&rank_icon=github)
+
+
+#### Languages & Frameworks
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,php,python,go,react,nextjs,tailwindcss,html,css)
+
+#### Backend & Databases
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,pnpm,firebase,mysql,sqlite,cloudflare,vercel,netlify,render)
+
+#### Tools & OS
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,linux,bash,vite,pnpm,figma,postman)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
