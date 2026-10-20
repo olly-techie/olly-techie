@@ -25,7 +25,6 @@ I’m focused on building scalable products, and turning ideas into real, usable
 - 🎵 [**lyrics-tui**](https://github.com/olly-techie/lyrics-tui) - Synced lyrics as big ASCII art in your terminal
 - 🔋 [**battery-report-linux**](https://github.com/olly-techie/battery-report-linux) - A powercfg /batteryreport for Linux
 - 🧹 [**mad-cleanup**](https://github.com/olly-techie/mad-cleanup) - Safe Linux cleanup & maintenance tool
-- 🌍 [**Sentinel Aerial**](https://github.com/olly-techie/sentinel-aerial) - Software-only AI aerial surveillance brain for FPV drones
 
 ## 🤝 Support My Work
 
