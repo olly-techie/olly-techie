@@ -68,8 +68,6 @@ I’m focused on building scalable products, and turning ideas into real, usable
 - 🔋 [**battery-report-linux**](https://github.com/olly-techie/battery-report-linux) - A powercfg /batteryreport for Linux
 - 🧹 [**mad-cleanup**](https://github.com/olly-techie/mad-cleanup) - Safe Linux cleanup & maintenance tool
 - 🌍 [**Sentinel Aerial**](https://github.com/olly-techie/sentinel-aerial) - Software-only AI aerial surveillance brain for FPV drones
-- 💸 [**Ifechoicez**](https://github.com/olly-techie/ifechoicez) - Budget recording app for iOS
-- 🍽️ [**Twisters Restaurant**](https://github.com/olly-techie/twisters-resturant) - Restaurant kiosk
 
 ## 🤝 Support My Work
 
