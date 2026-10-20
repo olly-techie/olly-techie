@@ -79,7 +79,7 @@ I’m focused on building scalable products, and turning ideas into real, usable
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=olly-techie&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=olly-techie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olly-techie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=3600)
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=olly-techie&theme=tokyonight&hide_border=false&show_icons=true&rank_icon=github)
 
